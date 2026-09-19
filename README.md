@@ -41,8 +41,3 @@ Your CSV should include a `default` target column (1 = bad credit risk, 0 = good
 | Random Forest | 0.78 | 0.72 | 0.42 | 0.53 | 0.841 |
 
 *(Results vary slightly with random seed / synthetic data regeneration.)*
-
-## 🎥 Submission Checklist (CodeAlpha)
-- [ ] Push this repo to GitHub as `CodeAlpha_CreditScoringModel`
-- [ ] Record a short video walkthrough and post it on LinkedIn tagging @CodeAlpha, with the GitHub link
-- [ ] Submit via the CodeAlpha submission form
